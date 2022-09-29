@@ -1,0 +1,12 @@
+[submodule "IMS_Universe"]
+	path = IMS_Universe
+	url = https://github.com/InMechaSol/IMS_Universe.git
+	branch = main
+[submodule "DeployProject"]
+	path = DeployProject
+	url = https://github.com/InMechaSol/DeployProject.git
+	branch = main
+[submodule "ccLib_netCore"]
+	path = ccLib_netCore
+	url = https://github.com/InMechaSol/ccLib_netCore.git
+	branch = main
